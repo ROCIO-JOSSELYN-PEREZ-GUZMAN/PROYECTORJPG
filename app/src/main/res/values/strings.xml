@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">PROYECTORJPG</string>
+    <string name="TITULO1">Tecnologico de Estudios Superiores del Oriente del Estado de México</string>
+    <string name="TITULO2">Dispositivos Moviles</string>
+    <string name="TITULO3">De la O Martinez Victor Hugo</string>
+    <string name="TITULO4">Tipos de fobias</string>
+    <string name="TITULO5">Perez Guzman Rocio Josselyn </string>
+    <string name="TITULO6">7S11</string>
+    <string name="TITULO8">PROYECTORJPG</string>
+    <string name="TITULO9">PROYECTORJPG</string>
+//menu principal
+    <string name="TITULO7">Menu Principal</string>
+    <string name="Button">Introduccion</string>
+    <string name="Button2">Acrofobia</string>
+    <string name="Button3">Aracnofobia</string>
+    <string name="Button4">Nictofobia</string>
+    <string name="Button5">Tafofobia</string>
+    <string name="Button6">Coulrofobia</string>
+    <string name="Button7">Claustrofobia</string>
+
+    <string name="Button8">Salir</string>
+    <string name="Button9">Acerca de</string>
+    //introduccion
+    <string name="TITULO10">Introducción </string>
+    <string name="TITULO11">En el siguiente trabajo tratara de los tipos de fobias que hay, para poder entender que son las fobias podemos definirlo
+       como el miedo a el terror a que ocurran ciertas cosas, algunas son mas comunes que otras. </string>
+    //acrofobia
+    <string name="TITULO12">Acrofobia </string>
+    <string name="TITULO13">Se le llama Acrofobia al miedo a las alturas. Por ejemplo no atreverse a practicar juegos extremos o de alturas, como lo
+        serían la tirolesa, el paracaídas o el parapente. Al igual que otras fobias, la acrofobia genera fuertes niveles de ansiedad en los individuos
+        que la presentan, lo que induce una conducta de evitación de la situación temida. </string>
+    //aracnofobia
+    <string name="TITULO14">Aracnofobia </string>
+    <string name="TITULO15">La aracnofobia es el asco o fobia a las arañas. Es una de las fobias más comunes, y posiblemente la fobia de animales más extendida.</string>
+    //nictofobia
+    <string name="TITULO16">Nictofobia </string>
+    <string name="TITULO17">La Nictofobia es una fobia caracterizada por un miedo irracional a la noche o a la oscuridad. Es generada por una percepción
+        distorsionada del cerebro de lo que podría pasar en medio de la oscuridad. También se le conoce como escotofobia, acluofobia, ligofobia,
+        mictofobia o sencillamente miedo a la oscuridad.</string>
+    //tafofobia
+    <string name="TITULO18">Tafofobia </string>
+    <string name="TITULO19">Tapefobia o miedo a ser enterrado vivo es el miedo irracional y persistente a la idea de ser enterrado vivo, como
+        consecuencia de haber sido diagnosticado muerto prematuramente.</string>
+    //coulrofobia
+    <string name="TITULO20">Coulrofobia </string>
+    <string name="TITULO21">La coulrofobia es la fobia o miedo irracional a los payasos. Afecta especialmente a los niños, aunque puede aparecer en
+        adolescentes y adultos. En discusiones sobre las causas de la coulrofobia, los pacientes coinciden en que lo que más les aterroriza de los
+        payasos es el maquillaje excesivo, a menudo acompañado de la nariz roja y del color extraño del cabello, que les permite ocultar su verdadera
+        identidad.</string>
+    //claustrofobia
+    <string name="TITULO22">Claustrofobia </string>
+    <string name="TITULO23">Es el miedo a los espacios pequeños, Al ser un miedo a los espacios cerrados,aquellos que la padecen suelen evitar los
+        ascensores, los túneles, el metro, las habitaciones pequeñas, el uso de técnicas de diagnóstico médico como el TAC o la RMN.</string>
+    //acerca de
+    <string name="TITULO24">Acerca de: </string>
+    <string name="TITULO25">Autor:Pérez Guzmán Rocio Josselyn</string>
+
+
+
+
+
+
+    <string name="button10">regresar</string>
+    <string name="button11">Regresar</string>
+    <string name="button14">regresar</string>
+    <string name="button13">regresar</string>
+    <string name="button15">regresar</string>
+    <string name="button16">regresar</string>
+    <string name="button17">regresar</string>
+
+
+</resources>
